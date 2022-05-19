@@ -1,4 +1,4 @@
-# Lambda Plugin SDK
+# Lambda Plugin SDK.
 
 This project in an example to show how a proper plugin for [Lambda Client](https://github.com/lambda-client/lambda) is set up.
 The advantage of plugins for a utility mod is that they allow the user to decide what features their personalized client will have. Plugins work in plug and play manner, and can be downloaded and activated inside the ingame menu without reloading the client as long as no mixins are used for the plugin.
